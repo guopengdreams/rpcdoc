@@ -1,5 +1,5 @@
-# rpcdoc
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/weibocom/motan/blob/master/LICENSE)
+# Rpcdoc
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/guopengdreams/rpcdoc/blob/master/LICENSE)
 
 # Overview
 Rpcdoc is a transparent and high-performance remote procedure call(RPC) framework for solve the problem of service invocation between distributed systems.
@@ -24,8 +24,8 @@ The quick start gives very basic example of running client and server on the sam
 
 # Documents
 
-* [Wiki](https://github.com/weibocom/motan/wiki)
-* [Wiki(中文)](https://github.com/weibocom/motan/wiki/zh_overview)
+* [Wiki](https://github.com/guopengdreams/rpcdoc/wiki)
+* [Wiki(中文)](https://github.com/guopengdreams/rpcdoc/wiki/zh_overview)
 
 # Contributors
 
