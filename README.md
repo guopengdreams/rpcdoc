@@ -36,8 +36,6 @@ The quick start gives very basic example of running client and server on the sam
 Rpcdoc is released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 [maven]:https://maven.apache.org
-[gradle]:http://gradle.org
-[consul]:http://www.consul.io
 [zookeeper]:http://zookeeper.apache.org
 
 
